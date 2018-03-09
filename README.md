@@ -1,4 +1,5 @@
-## Project: Library Mouse - App for sharing reading lists and reviews of books.
+## Project: Library Mouse
 ------------------------------------------------------------------------------
 
 SDK Version: 23 (Marshmallow)
+A mobile app to share reading lists with friends
